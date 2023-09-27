@@ -1,6 +1,12 @@
 <img alt="Danon" src="img/mem.PNG"/>
-Hello subscribers(Привет подписики)
 
+Hello subscribes ("Привет подписчики")
+========================================================================================================================================
+
+
+I am Fullstack developer.
+--------------------------
+🇷🇺🇷🇺🇷🇺 <b><i>I love Russia</i></b> 🇷🇺🇷🇺🇷🇺
 *   🧔🏻‍♂️  <b>My name is Danya</b>
 *   🧠  <b>Currently learning C++, JavaScript, Python</b>
 *   ✉️  <b>You can contact me at [guskir3565@gmail.com](mailto:guskir3565@gmail.com)</b>
