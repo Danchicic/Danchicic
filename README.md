@@ -20,6 +20,7 @@ I am Fullstack developer.
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Git" /></a> &nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Git" /></a> &nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="Git" /></a> &nbsp;
+<img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.svg" width="36" height="36" alt="git">
 </p>
 
 <p align="left">
