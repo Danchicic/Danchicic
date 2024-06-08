@@ -28,8 +28,6 @@ I am Fullstack developer.
 <p align="left">
   
 ### Socials
-<a href="https://www.instagram.com/danyxa_27/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="instagram" /></a>&nbsp;
-<a href="@SdaNonX" target="_blank" rel="noreferrer"><img src="img/telegram_icon.svg" width="32" height="32" alt="telegram" /></a>&nbsp;
 <a href="https://vk.com/peshkapythona" target="_blank" rel="noreferrer"><img src="img/vk_icon.svg" width="32" height="32" alt="vk" /></a>&nbsp;
 </p>
 
