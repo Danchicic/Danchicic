@@ -8,7 +8,7 @@ I am Fullstack developer.
 --------------------------
 🇷🇺🇷🇺🇷🇺 <b><i>I love Russia</i></b> 🇷🇺🇷🇺🇷🇺
 *   🧔🏻‍♂️  <b>My name is Danya</b>
-*   🧠  <b>Currently learning C++, JavaScript, Python</b>
+*   🧠  <b>Currently learning React, JS, TS</b>
 *   ✉️  <b>You can contact me at [guskir3565@gmail.com](mailto:guskir3565@gmail.com)</b>
 
 ### Skills
