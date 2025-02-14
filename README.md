@@ -1,12 +1,11 @@
-<img alt="Danon" src="img/IMG_8711.PNG"/>
+<img alt="Danon" src="https://click-or-die.ru/app/uploads/2025/02/snimok-ekrana-2025-02-10-v-21.32.46.jpg"/>
 
-Hello subscribes ("Привет подписчики")
+Hello subscribes 52 ("Привет подписчики 52")
 ========================================================================================================================================
 
 
 I am Fullstack developer.
 --------------------------
-🇷🇺🇷🇺🇷🇺 <b><i>I love Russia</i></b> 🇷🇺🇷🇺🇷🇺
 *   🧔🏻‍♂️  <b>My name is Danya</b>
 *   🧠  <b>Currently learning React, JS, TS</b>
 *   ✉️  <b>You can contact me at [guskir3565@gmail.com](mailto:guskir3565@gmail.com)</b>
