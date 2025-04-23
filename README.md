@@ -1,5 +1,3 @@
-<img alt="Danon" src="https://click-or-die.ru/app/uploads/2025/02/snimok-ekrana-2025-02-10-v-21.32.46.jpg"/>
-
 I am Fullstack developer.
 --------------------------
 *   🧔🏻‍♂️  <b>My name is Danya</b>
